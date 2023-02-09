@@ -1,0 +1,11 @@
+
+.svg svg rect{
+    fill: cadetblue;
+}
+.svg svg text {
+    fill: white;
+    opacity: 0.7;
+    font-weight: bold;
+    font: 1rem;
+    text-anchor: end;
+}
